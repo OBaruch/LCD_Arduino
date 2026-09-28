@@ -1,0 +1,2 @@
+# Preserve the original sketch byte-for-byte (CRLF line endings)
+*.ino -text
